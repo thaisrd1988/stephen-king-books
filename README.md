@@ -1,3 +1,5 @@
+**Aluno: Thais Rodrigues Dias**
+
 # Stephen King Books App
 
 Este é um aplicativo React que consome a Stephen King API para listar livros escritos por Stephen King e exibir detalhes de cada livro.
